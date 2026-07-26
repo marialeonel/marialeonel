@@ -1,4 +1,4 @@
-<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqeDZqc3QwbWF5ZDY2cmVxajNvbmkybDQ3a3NvemZiaXo4aHdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="800"></p>
+<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqeDZqc3QwbWF5ZDY2cmVxajNvbmkybDQ3a3NvemZiaXo4aHdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="1200"></p>
 
 # Hi, I'm Maria Fernanda 👋
 
