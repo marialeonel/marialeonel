@@ -2,17 +2,50 @@
   <img src="https://github.com/marialeonel/marialeonel/assets/131628787/96023865-b4a4-4ae0-a48d-ec9fed8562c2">
 </div>
 
-# 👋 Hello, Welcome! 
-I'm Maria Fernanda, an academics student of Systems Analysis and Development. I want to develop a solid knowledge in Web Back End and Database, but I'm also interested in Oriented Object Programming (OOP), bettering my programming skills and Web Front End.
+# Hi, I'm Maria Fernanda 👋
 
-## 👩‍💻 My skills:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+Full Stack Developer focused on building web applications with **.NET, C#, Angular and SQL Server**.
+
+Currently working with:
+
+- 💻 .NET (C#), Angular, React and TypeScript
+- ☁️ Microsoft Azure (Service Bus & Functions)
+- 🏗️ CQRS, REST APIs and Event-driven architecture
+- 🗄️ SQL Server, Stored Procedures and performance optimization
+- 🔍 Elastic Stack for monitoring and troubleshooting
+
+---
+
+## Featured Projects
+
+📽️ **Movies API**  
+Practice project focused on Clean Architecture, CQRS and modern backend development.  
+➡️ https://github.com/marialeonel/SEU_REPOSITORIO
+
+🧠 **SerenaMente**  
+Mental health platform built with React, Next.js and Express.  
+➡️ https://github.com/marialeonel/SEU_REPOSITORIO
+
+📚 **More projects**
+➡️ https://github.com/marialeonel?tab=repositories
+
+---
+
+## Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeonel&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=marialeonel&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeonel&layout=compact&hide_border=true)
 
 </div>
-<p align="center">
-  <b> See you! </b>
-</p>
