@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/marialeonel/marialeonel/assets/131628787/96023865-b4a4-4ae0-a48d-ec9fed8562c2">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=24&pause=1000&color=1DF76A&background=FFD0FC00&width=435&lines=Welcome!+I'm+Kodi+%F0%9F%8C%99)](https://git.io/typing-svg)
+<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqeDZqc3QwbWF5ZDY2cmVxajNvbmkybDQ3a3NvemZiaXo4aHdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="800"></p>
 
 # Hi, I'm Maria Fernanda 👋
 
